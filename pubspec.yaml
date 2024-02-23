@@ -39,7 +39,8 @@ dependencies:
   json_annotation: ^4.8.1
   flutter_slidable: ^3.0.1
   full_screen_image: ^2.0.0
-
+  connectivity_plus: ^5.0.2
+  flutter_offline: ^3.0.1
 
 dev_dependencies:
   flutter_test:
