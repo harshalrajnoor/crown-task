@@ -1,3 +1,5 @@
+// Task 5 - Fetch Data from the api and display title and image, and onClick on image
+
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
